@@ -67,7 +67,7 @@ section{
 }
 #es-loreal.es-loreal .es-kv {
   padding-top: 8px;
-  background: url(img/KV.png)
+  background: url(https://celebrated-praline-459cb8.netlify.app/img/KV.png)
     no-repeat;
   background-position: center;
   background-size: cover;
@@ -233,7 +233,7 @@ section{
 /* skladniki aktywne */
 .es-ingr {
   min-height: 600px;
-  background-image: url(img/SKLADNIKI-AKTYWNE.png);
+  background-image: url(https://celebrated-praline-459cb8.netlify.app/img/SKLADNIKI-AKTYWNE.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -604,7 +604,7 @@ section{
 #es-loreal.es-loreal .es-cross {
   background: #fff;
   margin-bottom: 56px;
-  background-image: url(img/PACKSHOTY.png);
+  background-image: url(https://celebrated-praline-459cb8.netlify.app/img/PACKSHOTY.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -893,7 +893,7 @@ section{
   font-weight: bolder;
 }
 .es-use__img {
-  background-image: url(img/MODELKA-1.png);
+  background-image: url(https://celebrated-praline-459cb8.netlify.app/img/MODELKA-1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
